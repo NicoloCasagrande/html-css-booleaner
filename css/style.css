@@ -32,6 +32,9 @@ small{
 #foto_tim{
     margin-top: 15px;
 }
+#didascalie{
+    line-height: 13px;
+}
 
 th{
     min-width: 200px;

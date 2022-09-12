@@ -17,6 +17,10 @@ h1{
     margin-bottom: 0;
 }
 
+ul{
+    padding-left: 15px;
+}
+
 small{
     font-size: 13px;
 }

@@ -26,6 +26,11 @@ small{
     color: grey;
     font-weight: bold;
     font-family: Cambria;
+    line-height: 15px;
+    margin-top: 15px;
+}
+#foto_tim{
+    margin-top: 15px;
 }
 
 th{

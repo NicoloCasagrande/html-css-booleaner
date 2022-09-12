@@ -22,9 +22,29 @@ small{
 }
 
 #foto_iniziali{
-    font-size: 20px;
+    font-size: 22px;
+    color: grey;
+}
+th{
+    min-width: 200px;
+    text-align: left;
 }
 
 #scrittore{
-    color: #4EA0FF;
+    color: #20A9E5;
+}
+body{
+    font-size: 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20A9E5;
+}
+
+.azzurro{
+    background-color: #B1E5F2;
 }

@@ -13,4 +13,18 @@ header{
 
 h1{
     font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+small{
+    font-size: 13px;
+}
+
+#foto_iniziali{
+    font-size: 20px;
+}
+
+#scrittore{
+    color: #4EA0FF;
 }

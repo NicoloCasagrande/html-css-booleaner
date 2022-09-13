@@ -2,11 +2,11 @@ header{
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);  
     background-repeat: repeat-x;
+    background-size: 50%;
 }
 
 #logo{
-    height: 100px;
-    width: 200px;
+    height: 60px;
     margin-top: 50px;
     margin-left: 10px;
     margin-bottom: 0px;

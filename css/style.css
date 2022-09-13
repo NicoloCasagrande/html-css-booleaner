@@ -16,7 +16,8 @@ h1{
     font-size: 50px;
     margin-top: 15px;
     margin-bottom: 0;
-    letter-spacing: 0.1px;
+    letter-spacing: -2px;
+    font-family: Cambria;
 }
 
 ul{
